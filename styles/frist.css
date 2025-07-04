@@ -29,5 +29,21 @@ background-size: 100px;
 background-position:bottom right ;
 }
 div{
-    color: purple;
+    color: rgb(161, 4, 46);
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 800;
 }
+.not{
+    background-color: rgb(53, 152, 161);
+}
+#back{
+    background-color: rgb(108, 149, 211);
+}
+.hoi{
+    background-color:pink ;
+}
+#koi{
+    background-color: rgb(20, 180, 20);
+}
+
